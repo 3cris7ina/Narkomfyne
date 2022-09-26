@@ -1,0 +1,32 @@
+.ot{
+width: 200px;
+height: 100px;
+border-radius: 20px;
+}
+.Bebra1{
+background-color: Pink;
+border: 1px solid black;
+}
+.Bebra2{
+background-color: PaleVioletRed;
+}
+.Bebra3{
+background-color: Crimson;
+}
+.Beb{
+  background-color: LightYellow;
+  display: block;
+  position: relative;
+  width: 100%;
+  padding: 2%;
+  margin: 2%;
+}
+.star{
+  position: relative;
+  margin: 50px
+}
+h1, h2, h3 {
+  font-family: 'PT Sans Caption', sans-serif;
+  font-weight: bold;
+
+}
